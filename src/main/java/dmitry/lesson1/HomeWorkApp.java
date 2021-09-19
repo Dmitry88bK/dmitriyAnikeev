@@ -8,13 +8,13 @@ public class HomeWorkApp {
       compareNumbers();
 
     }
-    //Задача №2
+    //Задача №2//
     public static void printThreeWords(){
         System.out.println("Orange");
         System.out.println("Banana");
         System.out.println("Apple");
     }
-    //Задача №3
+    //Задача №3//
     public static void checkSumSign(){
         int a = 3 ;
         int b = 5;
@@ -26,7 +26,7 @@ public class HomeWorkApp {
             System.out.println("Сумма отрицательная");
         }
     }
-    //Задача №4
+    //Задача №4//
     public static void printColor(){
         int value = -5;
 
@@ -40,7 +40,7 @@ public class HomeWorkApp {
 
 
     }
-    //Задача №5
+    //Задача №5//
     public static void compareNumbers(){
         int a =125;
         int b =100;
