@@ -8,7 +8,7 @@ public class HomeWorkApp2 {
         positiveNegativeNumber(-1);
         //Task 3
         System.out.println(negativeNumber(-1));
-        //Task4
+        //Task 4
         printStringNomder(15);
 
 
