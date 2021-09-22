@@ -8,6 +8,8 @@ public class HomeWorkApp2 {
         positiveNegativeNumber(-1);
         //Task 3
         System.out.println(negativeNumber(-1));
+        //Task 4
+        printStringNomder(15);
 
 
     }
@@ -41,8 +43,27 @@ public class HomeWorkApp2 {
 
     }
 
+    public static void printStringNomder( int i) {
+        String [] Hello = {"Hello"};
+        for (String o : Hello) {
+            for (i = 0; 3 > i; i++) {
+                System.out.println( "" + o );
+
+            }
+
+        }
+
+
+        
+        // for (int value = 0; value < 5; value++) {
+      //      System.out.println("value  " + value);
+
+        }
+        
+
+    }
 
 
 
 
-}
+
